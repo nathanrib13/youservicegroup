@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "langName": "Português",
+    "switchTo": "Ver site em inglês"
+  },
+  "logo": {
+    "tagline": "Terceirização de serviços"
+  },
+  "nav": {
+    "about": "A empresa",
+    "services": "Serviços",
+    "why": "Vantagens",
+    "coverage": "Atuação",
+    "contact": "Contato",
+    "cta": "Fazer uma consulta"
+  },
+  "hero": {
+    "badge": "Terceirização de serviços e gestão de pessoas",
+    "title": "Terceirização inteligente para o seu negócio",
+    "subtitle": "Pessoas qualificadas, equipes supervisionadas e mais eficiência para empresas, condomínios, associações e shoppings.",
+    "ctaPrimary": "Falar no WhatsApp",
+    "ctaSecondary": "Enviar e-mail",
+    "trust": "Atuação em todo o Estado do Rio de Janeiro",
+    "stats": {
+      "upTo": "Até ",
+      "costLabel": "de potencial de redução nos custos operacionais",
+      "replaceLabel": "para reposição de profissionais em caso de falta",
+      "supervisedLabel": "das equipes treinadas e supervisionadas",
+      "note": "Referências de mercado do setor de terceirização e facilities. Os resultados variam conforme cada operação."
+    }
+  },
+  "about": {
+    "eyebrow": "A empresa",
+    "title": "Terceirização que vira estratégia de operação",
+    "paragraphs": [
+      "Na You Service Group, transformamos a terceirização de serviços em uma estratégia para reduzir custos, melhorar a qualidade da operação e proporcionar mais segurança, organização e eficiência ao seu ambiente.",
+      "Somos especializados em terceirização de recursos humanos e serviços operacionais, oferecendo equipes treinadas, supervisionadas e preparadas para atender às necessidades específicas de cada cliente."
+    ],
+    "pillars": [
+      { "title": "Seleção e treinamento", "text": "Profissionais avaliados e capacitados antes de entrar em operação." },
+      { "title": "Gestão e supervisão", "text": "Acompanhamento contínuo das equipes e dos serviços prestados." },
+      { "title": "Padronização", "text": "Rotinas e procedimentos definidos para um resultado consistente." },
+      { "title": "Atendimento personalizado", "text": "Escopo desenhado de acordo com a realidade de cada cliente." }
+    ]
+  },
+  "services": {
+    "eyebrow": "Nossos serviços",
+    "title": "Equipes preparadas para cada frente da sua operação",
+    "subtitle": "Cada serviço é entregue com seleção, treinamento, gestão e supervisão da You Service Group.",
+    "items": [
+      {
+        "name": "Portaria e Controle de Acesso",
+        "text": "Profissionais preparados para controlar entradas e saídas, orientar visitantes, prestadores e moradores e contribuir para uma operação mais segura e organizada.",
+        "features": ["Controle de entradas e saídas", "Orientação a visitantes e prestadores", "Rotinas de segurança e organização"]
+      },
+      {
+        "name": "Auxiliares de Serviços Gerais e Limpeza",
+        "text": "Equipes treinadas para limpeza, conservação e manutenção da organização dos ambientes, garantindo um espaço mais agradável, higienizado e bem cuidado.",
+        "features": ["Limpeza e higienização de ambientes", "Conservação predial", "Manutenção da organização"]
+      },
+      {
+        "name": "Jardinagem e Paisagismo",
+        "text": "Profissionais especializados na conservação de áreas verdes, jardins e espaços externos, valorizando a estética e a conservação do patrimônio.",
+        "features": ["Conservação de áreas verdes", "Cuidado de jardins e canteiros", "Valorização dos espaços externos"]
+      }
+    ]
+  },
+  "why": {
+    "eyebrow": "Por que terceirizar com a You Service Group",
+    "title": "Terceirizar não significa apenas contratar profissionais",
+    "paragraphs": [
+      "Significa contar com uma empresa responsável pela seleção, treinamento, gestão e acompanhamento das equipes, permitindo que você concentre sua atenção no que realmente importa: administrar o seu negócio ou patrimônio."
+    ],
+    "listTitle": "Na You Service Group, buscamos oferecer",
+    "benefits": [
+      "Profissionais selecionados e treinados",
+      "Gestão e acompanhamento das equipes",
+      "Padronização dos serviços",
+      "Maior eficiência operacional",
+      "Redução de custos e desperdícios",
+      "Flexibilidade de acordo com a necessidade do cliente",
+      "Atendimento personalizado",
+      "Supervisão dos serviços prestados"
+    ]
+  },
+  "coverage": {
+    "eyebrow": "Atuação no Rio de Janeiro",
+    "title": "Presença em todo o Estado do Rio de Janeiro",
+    "paragraphs": [
+      "Atuamos em todo o Estado do Rio de Janeiro, com presença e experiência em importantes regiões da capital.",
+      "Nossa atuação é voltada para condomínios residenciais e comerciais, empresas, associações, shoppings e outros empreendimentos que buscam uma operação mais eficiente e profissional."
+    ],
+    "regionsTitle": "Atendemos clientes em regiões como",
+    "regions": ["Barra da Tijuca", "Recreio dos Bandeirantes", "Tijuca", "Maracanã"],
+    "clientsTitle": "Para quem trabalhamos",
+    "clients": ["Condomínios residenciais", "Condomínios comerciais", "Empresas", "Associações", "Shoppings", "Outros empreendimentos"]
+  },
+  "workforce": {
+    "eyebrow": "Mão de obra qualificada faz a diferença",
+    "title": "A qualidade de um serviço começa pelas pessoas que o executam",
+    "paragraphs": [
+      "Por isso, acreditamos que uma equipe bem selecionada, treinada e supervisionada contribui diretamente para a valorização do ambiente, do patrimônio e da experiência de moradores, clientes, colaboradores e visitantes.",
+      "Mais do que disponibilizar profissionais, buscamos entregar qualidade, organização e tranquilidade para nossos clientes."
+    ],
+    "highlights": [
+      { "title": "Valorização do patrimônio", "text": "Ambientes bem cuidados preservam e valorizam o espaço." },
+      { "title": "Melhor experiência", "text": "Moradores, clientes e visitantes percebem a diferença no dia a dia." },
+      { "title": "Tranquilidade para o gestor", "text": "Uma operação acompanhada de perto gera menos imprevistos." }
+    ]
+  },
+  "savings": {
+    "eyebrow": "Quanto sua operação pode economizar",
+    "title": "Cada empresa possui uma realidade diferente",
+    "paragraphs": [
+      "Por isso, a You Service Group realiza uma análise personalizada da sua operação, avaliando as necessidades de pessoal e os serviços atualmente utilizados.",
+      "Podemos identificar oportunidades de otimização de custos, melhoria da produtividade e aumento da eficiência operacional."
+    ],
+    "steps": [
+      { "title": "Análise da operação", "text": "Mapeamos as necessidades de pessoal e os serviços em uso." },
+      { "title": "Diagnóstico de oportunidades", "text": "Identificamos pontos de otimização de custos e produtividade." },
+      { "title": "Proposta personalizada", "text": "Apresentamos um plano de terceirização sob medida para o seu caso." }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Faça uma consulta",
+    "title": "Sua operação pode ser mais eficiente",
+    "text": "Converse com a You Service Group e descubra como a terceirização profissional pode ajudar sua empresa ou condomínio a reduzir custos, melhorar seus serviços e elevar o padrão da operação. Agende uma reunião com nossa equipe.",
+    "whatsapp": "Falar no WhatsApp",
+    "email": "Enviar e-mail",
+    "whatsappMessage": "Olá, gostaria de agendar uma consulta com a You Service Group."
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Fale com a nossa equipe",
+    "text": "Estamos à disposição para entender a sua operação e apresentar a melhor solução de terceirização.",
+    "phoneLabel": "Telefones",
+    "emailLabel": "E-mail",
+    "addressLabel": "Endereço",
+    "siteLabel": "Site",
+    "hoursLabel": "Atendimento",
+    "hours": "Segunda a sexta, das 9h às 18h"
+  },
+  "footer": {
+    "tagline": "Terceirização de serviços e gestão de pessoas.",
+    "slogan": "Mais eficiência. Mais qualidade. Mais tranquilidade.",
+    "navTitle": "Navegação",
+    "servicesTitle": "Serviços",
+    "contactTitle": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Site institucional You Service Group."
+  },
+  "a11y": {
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "backToTop": "Voltar ao topo",
+    "whatsappFloat": "Falar no WhatsApp"
+  }
+}
