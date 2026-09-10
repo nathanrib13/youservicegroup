@@ -2,6 +2,8 @@
 
 Site institucional de página única para a You Service Group, empresa de terceirização de serviços e gestão de pessoas no Rio de Janeiro.
 
+Site publicado: https://nathanrib13.github.io/youservicegroup/
+
 ## Tecnologias
 
 - Vite + React 18 + TypeScript
@@ -29,6 +31,15 @@ npm run preview
 ```
 
 Os arquivos finais ficam na pasta `dist`, prontos para publicação em qualquer hospedagem estática (Vercel, Netlify, GitHub Pages, hospedagem própria).
+
+## Publicação no GitHub Pages
+
+O deploy é automático. A cada `push` na branch `main`, o workflow em
+`.github/workflows/deploy.yml` roda o build e publica a pasta `dist` no GitHub Pages.
+
+O caminho base usado no build fica em `vite.config.ts` na constante `REPO`
+(hoje `youservicegroup`, resultando em `https://nathanrib13.github.io/youservicegroup/`).
+Se o repositório for renomeado ou movido para um domínio próprio, ajuste essa constante.
 
 ## Onde ajustar o conteúdo
 
