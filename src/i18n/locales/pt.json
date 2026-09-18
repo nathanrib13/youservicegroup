@@ -17,24 +17,21 @@
   "hero": {
     "badge": "Terceirização de serviços e gestão de pessoas",
     "title": "Terceirização inteligente para o seu negócio",
-    "subtitle": "Pessoas qualificadas, equipes supervisionadas e mais eficiência para empresas, condomínios, associações e shoppings.",
+    "subtitle": "Equipes qualificadas e supervisionadas para empresas e condomínios.",
     "ctaPrimary": "Falar no WhatsApp",
     "ctaSecondary": "Enviar e-mail",
-    "trust": "Atuação em todo o Estado do Rio de Janeiro",
     "stats": {
       "upTo": "Até ",
-      "costLabel": "de potencial de redução nos custos operacionais",
-      "replaceLabel": "para reposição de profissionais em caso de falta",
-      "supervisedLabel": "das equipes treinadas e supervisionadas",
-      "note": "Referências de mercado do setor de terceirização e facilities. Os resultados variam conforme cada operação."
+      "costLabel": "de redução em custos operacionais",
+      "replaceLabel": "para reposição em caso de falta",
+      "supervisedLabel": "das equipes supervisionadas"
     }
   },
   "about": {
     "eyebrow": "A empresa",
     "title": "Terceirização que vira estratégia de operação",
     "paragraphs": [
-      "Na You Service Group, transformamos a terceirização de serviços em uma estratégia para reduzir custos, melhorar a qualidade da operação e proporcionar mais segurança, organização e eficiência ao seu ambiente.",
-      "Somos especializados em terceirização de recursos humanos e serviços operacionais, oferecendo equipes treinadas, supervisionadas e preparadas para atender às necessidades específicas de cada cliente."
+      "Transformamos a terceirização de serviços em uma estratégia para reduzir custos e trazer mais segurança e eficiência à sua operação, com equipes treinadas e supervisionadas."
     ],
     "pillars": [
       { "title": "Seleção e treinamento", "text": "Profissionais avaliados e capacitados antes de entrar em operação." },
@@ -87,8 +84,7 @@
     "eyebrow": "Atuação no Rio de Janeiro",
     "title": "Presença em todo o Estado do Rio de Janeiro",
     "paragraphs": [
-      "Atuamos em todo o Estado do Rio de Janeiro, com presença e experiência em importantes regiões da capital.",
-      "Nossa atuação é voltada para condomínios residenciais e comerciais, empresas, associações, shoppings e outros empreendimentos que buscam uma operação mais eficiente e profissional."
+      "Atuamos em todo o Estado do Rio de Janeiro, atendendo condomínios, empresas, associações e shoppings que buscam uma operação mais eficiente."
     ],
     "regionsTitle": "Atendemos clientes em regiões como",
     "regions": ["Barra da Tijuca", "Recreio dos Bandeirantes", "Tijuca", "Maracanã"],
@@ -99,8 +95,7 @@
     "eyebrow": "Mão de obra qualificada faz a diferença",
     "title": "A qualidade de um serviço começa pelas pessoas que o executam",
     "paragraphs": [
-      "Por isso, acreditamos que uma equipe bem selecionada, treinada e supervisionada contribui diretamente para a valorização do ambiente, do patrimônio e da experiência de moradores, clientes, colaboradores e visitantes.",
-      "Mais do que disponibilizar profissionais, buscamos entregar qualidade, organização e tranquilidade para nossos clientes."
+      "Uma equipe bem selecionada, treinada e supervisionada valoriza o ambiente e a experiência de quem convive com ele todos os dias."
     ],
     "highlights": [
       { "title": "Valorização do patrimônio", "text": "Ambientes bem cuidados preservam e valorizam o espaço." },
@@ -112,8 +107,7 @@
     "eyebrow": "Quanto sua operação pode economizar",
     "title": "Cada empresa possui uma realidade diferente",
     "paragraphs": [
-      "Por isso, a You Service Group realiza uma análise personalizada da sua operação, avaliando as necessidades de pessoal e os serviços atualmente utilizados.",
-      "Podemos identificar oportunidades de otimização de custos, melhoria da produtividade e aumento da eficiência operacional."
+      "Fazemos uma análise personalizada da sua operação para identificar oportunidades de redução de custos e ganho de produtividade."
     ],
     "steps": [
       { "title": "Análise da operação", "text": "Mapeamos as necessidades de pessoal e os serviços em uso." },
@@ -124,7 +118,7 @@
   "cta": {
     "eyebrow": "Faça uma consulta",
     "title": "Sua operação pode ser mais eficiente",
-    "text": "Converse com a You Service Group e descubra como a terceirização profissional pode ajudar sua empresa ou condomínio a reduzir custos, melhorar seus serviços e elevar o padrão da operação. Agende uma reunião com nossa equipe.",
+    "text": "Descubra como a terceirização profissional pode reduzir custos e elevar o padrão da sua operação.",
     "whatsapp": "Falar no WhatsApp",
     "email": "Enviar e-mail",
     "whatsappMessage": "Olá, gostaria de agendar uma consulta com a You Service Group."

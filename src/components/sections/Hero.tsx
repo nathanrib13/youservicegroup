@@ -1,7 +1,7 @@
 import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { motion, useReducedMotion, useScroll, useTransform } from 'framer-motion'
-import { Mail, MapPin, MessageCircle, PiggyBank, ShieldCheck, Timer } from 'lucide-react'
+import { Mail, MessageCircle, PiggyBank, ShieldCheck, Timer } from 'lucide-react'
 import { GeometricField } from '../primitives/GeometricField'
 import { AnimatedCounter } from '../primitives/AnimatedCounter'
 import { mailtoLink, whatsappLink } from '../../lib/site'
@@ -82,11 +82,6 @@ export function Hero() {
               {t('hero.ctaSecondary')}
             </a>
           </motion.div>
-
-          <motion.p variants={item} className="mt-6 flex items-center gap-2 text-sm text-brand-100/75">
-            <MapPin size={15} className="shrink-0 text-gold-400" />
-            {t('hero.trust')}
-          </motion.p>
         </motion.div>
 
         <motion.div
@@ -112,9 +107,6 @@ export function Hero() {
               label={t('hero.stats.supervisedLabel')}
             />
           </div>
-          <p className="mt-4 max-w-2xl text-xs leading-relaxed text-brand-100/55">
-            {t('hero.stats.note')}
-          </p>
         </motion.div>
       </div>
     </section>

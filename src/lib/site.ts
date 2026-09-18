@@ -17,10 +17,7 @@ export const site = {
    * Telefones. `raw` no formato internacional apenas com digitos (para links de WhatsApp e tel:).
    * O primeiro numero da lista e usado como padrao nos botoes de WhatsApp.
    */
-  phones: [
-    { label: '(21) 96412-4912', raw: '5521964124912' },
-    { label: '(21) 95905-9057', raw: '5521959059057' },
-  ],
+  phones: [{ label: '(21) 99235-6191', raw: '5521992356191' }],
 }
 
 export const primaryPhone = site.phones[0]

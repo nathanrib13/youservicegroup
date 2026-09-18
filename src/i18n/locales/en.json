@@ -17,24 +17,21 @@
   "hero": {
     "badge": "Service outsourcing and workforce management",
     "title": "Smart outsourcing for your business",
-    "subtitle": "Qualified people, supervised teams and more efficiency for companies, condominiums, associations and shopping malls.",
+    "subtitle": "Qualified, supervised teams for companies and condominiums.",
     "ctaPrimary": "Chat on WhatsApp",
     "ctaSecondary": "Send an email",
-    "trust": "Operating across the entire State of Rio de Janeiro",
     "stats": {
       "upTo": "Up to ",
-      "costLabel": "potential reduction in operating costs",
+      "costLabel": "reduction in operating costs",
       "replaceLabel": "to replace staff in case of absence",
-      "supervisedLabel": "of teams trained and supervised",
-      "note": "Market references from the outsourcing and facilities sector. Results vary by operation."
+      "supervisedLabel": "of teams supervised"
     }
   },
   "about": {
     "eyebrow": "The company",
     "title": "Outsourcing that becomes an operations strategy",
     "paragraphs": [
-      "At You Service Group, we turn service outsourcing into a strategy to reduce costs, improve operational quality and bring more safety, organization and efficiency to your environment.",
-      "We specialize in outsourcing human resources and operational services, providing trained, supervised teams that are ready to meet the specific needs of each client."
+      "We turn service outsourcing into a strategy to reduce costs and bring more safety and efficiency to your operation, with trained, supervised teams."
     ],
     "pillars": [
       { "title": "Selection and training", "text": "Professionals are assessed and trained before starting operations." },
@@ -87,8 +84,7 @@
     "eyebrow": "Coverage in Rio de Janeiro",
     "title": "Presence across the entire State of Rio de Janeiro",
     "paragraphs": [
-      "We operate throughout the State of Rio de Janeiro, with presence and experience in major regions of the capital.",
-      "Our work is focused on residential and commercial condominiums, companies, associations, shopping malls and other developments that want a more efficient and professional operation."
+      "We operate throughout the State of Rio de Janeiro, serving condominiums, companies, associations and shopping malls that want a more efficient operation."
     ],
     "regionsTitle": "We serve clients in regions such as",
     "regions": ["Barra da Tijuca", "Recreio dos Bandeirantes", "Tijuca", "Maracana"],
@@ -99,8 +95,7 @@
     "eyebrow": "Qualified labor makes the difference",
     "title": "The quality of a service starts with the people who deliver it",
     "paragraphs": [
-      "That is why we believe a well selected, trained and supervised team contributes directly to the value of the environment, the property and the experience of residents, clients, employees and visitors.",
-      "More than providing professionals, we aim to deliver quality, organization and peace of mind to our clients."
+      "A well selected, trained and supervised team adds value to the environment and to the experience of everyone who uses it every day."
     ],
     "highlights": [
       { "title": "Property value", "text": "Well maintained environments protect and increase the value of the space." },
@@ -112,8 +107,7 @@
     "eyebrow": "How much your operation can save",
     "title": "Every company has a different reality",
     "paragraphs": [
-      "That is why You Service Group carries out a personalized analysis of your operation, assessing staffing needs and the services currently in use.",
-      "We can identify opportunities to optimize costs, improve productivity and increase operational efficiency."
+      "We carry out a personalized analysis of your operation to identify opportunities to cut costs and boost productivity."
     ],
     "steps": [
       { "title": "Operation analysis", "text": "We map staffing needs and the services in use." },
@@ -124,7 +118,7 @@
   "cta": {
     "eyebrow": "Request a consultation",
     "title": "Your operation can be more efficient",
-    "text": "Talk to You Service Group and find out how professional outsourcing can help your company or condominium reduce costs, improve services and raise the standard of the operation. Schedule a meeting with our team.",
+    "text": "Find out how professional outsourcing can reduce costs and raise the standard of your operation.",
     "whatsapp": "Chat on WhatsApp",
     "email": "Send an email",
     "whatsappMessage": "Hello, I would like to schedule a consultation with You Service Group."

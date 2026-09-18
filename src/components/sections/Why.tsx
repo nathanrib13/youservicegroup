@@ -51,10 +51,10 @@ export function Why() {
                 {t('why.listTitle')}
               </p>
             </Reveal>
-            <Stagger className="mt-5 grid gap-3 sm:grid-cols-2">
+            <Stagger className="mt-5 grid items-stretch gap-3 sm:grid-cols-2">
               {benefits.map((benefit, i) => (
-                <StaggerItem key={i}>
-                  <div className="flex items-start gap-3 rounded-2xl border border-white/12 bg-white/8 p-4 backdrop-blur-sm">
+                <StaggerItem key={i} className="h-full">
+                  <div className="flex h-full items-start gap-3 rounded-2xl border border-white/12 bg-white/8 p-4 backdrop-blur-sm">
                     <span className="mt-0.5 grid h-6 w-6 shrink-0 place-items-center rounded-full bg-gold-500 text-brand-900">
                       <Check size={14} strokeWidth={3} />
                     </span>
