@@ -2,7 +2,7 @@
 
 Site institucional de página única para a You Service Group, empresa de terceirização de serviços e gestão de pessoas no Rio de Janeiro.
 
-Site publicado: https://nathanrib13.github.io/youservicegroup/
+Site publicado: https://youservicegroup.com.br/
 
 ## Tecnologias
 
@@ -37,9 +37,10 @@ Os arquivos finais ficam na pasta `dist`, prontos para publicação em qualquer 
 O deploy é automático. A cada `push` na branch `main`, o workflow em
 `.github/workflows/deploy.yml` roda o build e publica a pasta `dist` no GitHub Pages.
 
-O caminho base usado no build fica em `vite.config.ts` na constante `REPO`
-(hoje `youservicegroup`, resultando em `https://nathanrib13.github.io/youservicegroup/`).
-Se o repositório for renomeado ou movido para um domínio próprio, ajuste essa constante.
+O site usa o domínio próprio `youservicegroup.com.br` (configurado via `public/CNAME`
+e nas configurações de Pages do repositório), por isso o `base` em `vite.config.ts`
+é `/` (raiz). Se o domínio for removido e o site voltar a ser servido em
+`github.io/youservicegroup/`, ajuste o `base` de volta para `/youservicegroup/`.
 
 ## Onde ajustar o conteúdo
 

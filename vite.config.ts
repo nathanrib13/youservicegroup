@@ -1,13 +1,12 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Nome do repositorio no GitHub, usado como base path no GitHub Pages.
-const REPO = 'youservicegroup'
-
-export default defineConfig(({ command }) => ({
-  base: command === 'build' ? `/${REPO}/` : '/',
+// O site e servido no dominio proprio youservicegroup.com.br (raiz),
+// nao mais no sub-path do GitHub Pages (github.io/youservicegroup/).
+export default defineConfig({
+  base: '/',
   plugins: [react()],
   server: {
     port: 5173,
   },
-}))
+})
