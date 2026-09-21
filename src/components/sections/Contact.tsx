@@ -1,9 +1,9 @@
 import { useTranslation } from 'react-i18next'
-import { Clock, Globe, Mail, MapPin, MessageCircle, Phone } from 'lucide-react'
+import { Clock, Globe, MapPin, MessageCircle, Phone } from 'lucide-react'
 import { SectionHeading } from '../primitives/SectionHeading'
 import { Reveal } from '../primitives/Reveal'
 import { GeometricField } from '../primitives/GeometricField'
-import { mailtoLink, site, whatsappLink } from '../../lib/site'
+import { site, whatsappLink } from '../../lib/site'
 
 export function Contact() {
   const { t } = useTranslation()
@@ -35,10 +35,6 @@ export function Contact() {
                   <MessageCircle size={18} />
                   {t('cta.whatsapp')}
                 </a>
-                <a href={mailtoLink('Consulta - You Service Group')} className="btn-ghost-light">
-                  <Mail size={18} />
-                  {t('cta.email')}
-                </a>
               </div>
             </Reveal>
           </div>
@@ -57,11 +53,6 @@ export function Contact() {
                       </a>
                     ))}
                   </div>
-                </InfoRow>
-                <InfoRow icon={<Mail size={17} />} label={t('contact.emailLabel')}>
-                  <a href={mailtoLink('Contato - You Service Group')} className="break-all text-white/90 transition-colors hover:text-white">
-                    {site.email}
-                  </a>
                 </InfoRow>
                 <InfoRow icon={<Globe size={17} />} label={t('contact.siteLabel')}>
                   <a href={site.url} target="_blank" rel="noopener noreferrer" className="text-white/90 transition-colors hover:text-white">

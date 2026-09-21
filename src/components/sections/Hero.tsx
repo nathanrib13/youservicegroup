@@ -1,10 +1,10 @@
 import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { motion, useReducedMotion, useScroll, useTransform } from 'framer-motion'
-import { Mail, MessageCircle, PiggyBank, ShieldCheck, Timer } from 'lucide-react'
+import { MessageCircle, PiggyBank, ShieldCheck, Timer } from 'lucide-react'
 import { GeometricField } from '../primitives/GeometricField'
 import { AnimatedCounter } from '../primitives/AnimatedCounter'
-import { mailtoLink, whatsappLink } from '../../lib/site'
+import { whatsappLink } from '../../lib/site'
 
 export function Hero() {
   const { t } = useTranslation()
@@ -76,10 +76,6 @@ export function Hero() {
             >
               <MessageCircle size={18} />
               {t('hero.ctaPrimary')}
-            </a>
-            <a href={mailtoLink('Consulta - You Service Group')} className="btn-ghost-light">
-              <Mail size={18} />
-              {t('hero.ctaSecondary')}
             </a>
           </motion.div>
         </motion.div>

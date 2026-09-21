@@ -3,7 +3,7 @@ import { Check } from 'lucide-react'
 import { SectionHeading } from '../primitives/SectionHeading'
 import { Reveal, Stagger, StaggerItem } from '../primitives/Reveal'
 import { GeometricField } from '../primitives/GeometricField'
-import { mailtoLink, whatsappLink } from '../../lib/site'
+import { whatsappLink } from '../../lib/site'
 
 export function Why() {
   const { t } = useTranslation()
@@ -37,9 +37,6 @@ export function Why() {
                   className="btn bg-white text-brand-900 hover:-translate-y-0.5 hover:bg-brand-50"
                 >
                   {t('cta.whatsapp')}
-                </a>
-                <a href={mailtoLink('Consulta - You Service Group')} className="btn-ghost-light">
-                  {t('cta.email')}
                 </a>
               </div>
             </Reveal>

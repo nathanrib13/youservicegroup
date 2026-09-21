@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import { Logo } from './primitives/Logo'
 import { NAV_SECTIONS } from '../lib/nav'
-import { mailtoLink, site, whatsappLink } from '../lib/site'
+import { site, whatsappLink } from '../lib/site'
 
 export function Footer() {
   const { t } = useTranslation()
@@ -59,11 +59,6 @@ export function Footer() {
                   </a>
                 </li>
               ))}
-              <li>
-                <a href={mailtoLink('Contato - You Service Group')} className="break-all transition-colors hover:text-white">
-                  {site.email}
-                </a>
-              </li>
               <li className="pt-1 leading-relaxed">
                 {site.address.line1}
                 <br />
