@@ -60,16 +60,6 @@ export function Coverage() {
                   </li>
                 ))}
               </ul>
-
-              <div className="mt-7 overflow-hidden rounded-2xl border border-brand-100">
-                <iframe
-                  title="You Service Group - Barra da Tijuca"
-                  src="https://www.google.com/maps?q=Av.%20das%20Am%C3%A9ricas%203120%20Barra%20da%20Tijuca%20Rio%20de%20Janeiro&output=embed"
-                  className="h-56 w-full"
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                />
-              </div>
             </div>
           </Reveal>
         </div>
